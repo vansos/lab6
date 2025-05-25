@@ -1,0 +1,7 @@
+15:11:11 [main] INFO  org.example.chat.ChatServer - Chat server started on port 12345
+15:11:31 [Thread-0] INFO  org.example.chat.ClientHandler - Pidagog connected
+15:18:03 [main] INFO  org.example.chat.ChatServer - Консольный чат запущен с портом 12345
+15:19:49 [Thread-0] INFO  org.example.chat.ClientHandler - Частное сообщение Pidagog к Pidagog: Пойдем жарить картошечку
+15:22:20 [main] INFO  org.example.chat.ChatServer - Консольный чат запущен с портом 12345
+15:22:33 [Thread-0] INFO  org.example.chat.ClientHandler - школьник школьник подключен
+15:22:41 [Thread-0] INFO  org.example.chat.ClientHandler - Трансляция для школьник школьник: нинавижу школу ААА!
